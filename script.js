@@ -7,4 +7,4 @@ tombolClose.addEventListener("click",function(){
     container.removeChild(card);
 });
 
-
+//ini cara gilang menghapus card
